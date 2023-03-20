@@ -1,0 +1,38 @@
+.odin-header {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    text-align: center;
+    color: rgb(255, 191, 0);
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.first-description {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.pizza-pic {
+    height: 300px;
+    width: auto;   
+}
+
+.chicken-pic {
+    height: 300px;
+    width: auto; 
+}
+
+.turky-pic {
+    height: 300px;
+    width: 600px;
+    object-fit:contain;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.search-box {
+    margin-left: 225px;
+    font-size: 20px; 
+    margin-bottom: 30px;
+}
